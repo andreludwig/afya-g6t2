@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+
+.env
+
+# Mac files
+.DS_Store
